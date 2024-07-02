@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AspNetCoreMongoDbSolution.Application/1.0.0": {
+        "dependencies": {
+          "AspNetCoreMongoDbSolution.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AspNetCoreMongoDbSolution.Application.dll": {}
+        }
+      },
+      "AspNetCoreMongoDbSolution.Domain/1.0.0": {
+        "runtime": {
+          "AspNetCoreMongoDbSolution.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AspNetCoreMongoDbSolution.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AspNetCoreMongoDbSolution.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

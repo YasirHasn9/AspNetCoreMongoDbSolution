@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WSIfDoEeCB1z8iK9Y0RE25sxvGvQ+n1zc9OdSxvoSJ8=",
+  "Source": "AspNetCoreMongoDbSolution.Api",
+  "BasePath": "_content/AspNetCoreMongoDbSolution.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
